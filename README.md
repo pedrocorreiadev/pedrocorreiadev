@@ -6,11 +6,11 @@ Web Developer • Data Engineering Student
 
 ## About
 
-I'm an Information Systems student focused on Web Development and Data Engineering.
+I'm an Information Systems student passionate about Web Development and Data Engineering.
 
-Currently learning Python, SQL, cloud technologies, and modern data platforms while building scalable web applications.
+Currently, I'm building modern web applications while expanding my knowledge of Python, SQL, cloud technologies, and data engineering.
 
-Interested in backend development, data pipelines, APIs, databases, and cloud computing.
+I'm interested in backend development, data pipelines, databases, APIs, cloud computing, and scalable systems.
 
 ---
 
@@ -38,36 +38,22 @@ Apache Spark • Apache Airflow
 
 ---
 
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocorreiadev&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrocorreiadev&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## Connect
 
-<p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrocorreiadev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://www.linkedin.com/in/pedrocorreiadev/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://github.com/pedrocorreiadev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://github.com/pedrocorreiadev">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="mailto:pedrocorreia1219@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="mailto:pedrocorreia1219@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://instagram.com/pedrocorreia.dev">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+  <a href="https://instagram.com/pedrocorreia.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
