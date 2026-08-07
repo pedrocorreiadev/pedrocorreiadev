@@ -6,32 +6,11 @@ Web Developer • Data Engineering Student
 
 ## About
 
-I'm an Information Systems student passionate about Web Development and Data Engineering.
+I'm an Information Systems student focused on Web Development and Data Engineering.
 
-Currently, I'm building modern web applications while expanding my knowledge of Python, SQL, cloud technologies, and data engineering.
+Currently learning Python, SQL, cloud technologies, and modern data platforms while building scalable web applications.
 
-I'm interested in backend development, data pipelines, databases, APIs, cloud computing, and scalable systems.
-
----
-
-## Current Focus
-
-- Data Engineering
-- Backend Development
-- Modern Web Development
-- Cloud Computing
-
----
-
-## Currently Learning
-
-- Python
-- SQL
-- PostgreSQL
-- Docker
-- Apache Spark
-- Apache Airflow
-- AWS
+Interested in backend development, data pipelines, APIs, databases, and cloud computing.
 
 ---
 
@@ -62,34 +41,33 @@ Apache Spark • Apache Airflow
 ## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrocorreiadev&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorreiadev&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrocorreiadev&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrocorreiadev&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pedrocorreiadev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## Connect
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/pedrocorreiadev/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/pedrocorreiadev">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:pedrocorreia1219@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://instagram.com/pedrocorreia.dev">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
