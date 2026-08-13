@@ -14,7 +14,7 @@ I'm interested in backend development, data pipelines, databases, APIs, cloud co
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Data Engineering
 
