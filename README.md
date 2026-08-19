@@ -1,8 +1,12 @@
+<div align="center">
+
 # Pedro Correia
 
-Web Developer • Data Engineering Student
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=C9A876&center=true&vCenter=true&width=520&lines=Web+Developer+%E2%80%A2+Data+Engineering+Student" alt="Role" />
 
----
+</div>
+
+<br>
 
 ## About
 
@@ -11,8 +15,6 @@ I'm an Information Systems student passionate about Web Development and Data Eng
 Currently, I'm building modern web applications while expanding my knowledge of Python, SQL, cloud technologies, and data engineering.
 
 I'm interested in backend development, data pipelines, databases, APIs, cloud computing, and scalable systems.
-
----
 
 ## Stack
 
