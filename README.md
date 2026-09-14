@@ -27,7 +27,7 @@ I'm interested in backend development, data pipelines, databases, APIs, cloud co
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind," />
 </p>
 
 ### Currently Exploring
