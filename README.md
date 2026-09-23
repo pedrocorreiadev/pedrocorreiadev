@@ -2,7 +2,7 @@
 
 # Pedro Correia
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=C9A876&center=true&vCenter=true&width=520&lines=Web+Developer+%E2%80%A2+Data+Engineering+Student" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=C9A876&center=true&vCenter=true&width=520&lines=Web+Developer+%E2%80%A2+Data+Engineering" alt="Role" />
 
 </div>
 
