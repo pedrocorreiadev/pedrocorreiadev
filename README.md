@@ -1,28 +1,61 @@
+<div align="center">
+
 # Pedro Correia
 
-**Backend & Full Stack Developer**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=C9A876&center=true&vCenter=true&width=520&lines=Web+Developer+%E2%80%A2+Data+Engineering" alt="Role" />
 
-I build APIs, database-backed applications, and websites for local businesses in Brazil.
+</div>
 
-[Portfolio](https://pedrocorreiadev.com.br) · [LinkedIn](https://www.linkedin.com/in/pedrocorreiadev/)
+<br>
 
-## Selected projects
+## About
 
-**[Bolsa Analytics](https://github.com/pedrocorreiadev/Bolsa-Analytics)**  
-I worked on the Python backend for a financial dashboard built with two classmates.
-The FastAPI service delivers market data to a React frontend and uses SQLite for
-user accounts and saved favorites.
+I'm an Information Systems student passionate about Web Development and Data Engineering.
 
-**[DevCut](https://github.com/pedrocorreiadev/Devcut)**  
-A barbershop booking project I built with a classmate using PHP and JavaScript.
-Customers can browse services, choose a barber, and pick an appointment time.
+Currently, I'm building modern web applications while expanding my knowledge of Python, SQL, cloud technologies, and data engineering.
 
-**[Bruna Alves](https://github.com/pedrocorreiadev/psicologa-bruna-alves)**  
-A website for a clinical psychologist, built with Next.js and TypeScript.
-Visitors can explore her services and get in touch through WhatsApp.
+I'm interested in backend development, data pipelines, databases, APIs, cloud computing, and scalable systems.
 
 ## Stack
 
-**Backend** · Node.js, TypeScript, Python, FastAPI  
-**Databases** · PostgreSQL, SQLite  
-**Frontend** · React, Next.js, Tailwind CSS
+### Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,linux" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind," />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+Apache Spark • Apache Airflow
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrocorreiadev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/pedrocorreiadev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="mailto:pedrocorreia1219@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://instagram.com/pedrocorreia.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
